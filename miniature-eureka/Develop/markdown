@@ -1,0 +1,13 @@
+- public
+  - assets
+    - css
+      - styles.css
+    - js
+      - index.js
+  - notes.html
+  - index.html
+- routes
+  - apiRoutes.js
+  - htmlRoutes.js
+- server.js
+- db.json
